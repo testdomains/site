@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "TAH7JD8B8B.ua.raiffeisen.myraif.dev",
+            "paths": ["/hub/*"]
+            }]
+    }
+}
